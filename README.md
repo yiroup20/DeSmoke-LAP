@@ -11,9 +11,9 @@ The model is built based on the architecture of <a href="https://github.com/juny
 
 Result comparison on Clips can be assess in the <a href="https://github.com/yiroup20/DeSmoke-LAP/clips">'clips'</a> folder.
 
-% <img src='clips/Comparisons/gif/output_2.gif' width=384>
+<!--  <img src='clips/Comparisons/gif/output_2.gif' width=384> -->
 
-% (a)Input (b)CycleGAN (c)FastCUT (d)GAN-DC (e)Proposed
+<!--  (a)Input (b)CycleGAN (c)FastCUT (d)GAN-DC (e)Proposed -->
 
 ## Prerequisites
 - Linux or macOS
