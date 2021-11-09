@@ -1,5 +1,5 @@
 
-# Enhanced CycleGAN network for desmoking in laparoscopiy surgery data
+# DeSmoke-LAP: Improved Unpaired Image-to-Image Translation for Desmoking in Laproscopic Surgery
 
 ## Model Architecture
 
