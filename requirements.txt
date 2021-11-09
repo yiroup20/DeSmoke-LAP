@@ -1,0 +1,10 @@
+torch>=1.4.0
+torchvision>=0.5.0
+dominate>=2.4.0
+visdom>=0.1.8.8
+tensorflow>=1.15
+numpy>=1.17.5
+opencv-python>=3.4.2
+opencv-contrib-python>=4.1.2.30
+pandas>=0.25.3
+pytest-shutil>=1.7.0
