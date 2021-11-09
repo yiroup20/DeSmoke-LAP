@@ -5,7 +5,7 @@
 
 The model is built based on the architecture of <a href="https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix">CycleGAN</a> network, and two additional loss functions are added for inter-channel discrepancies and dark channel prior.
 
-<img src='imgs/flowchart.png' width=384>
+<img src='imgs/Proposed_flowchart.png' width=900>
 
 ## Sample Clips
 
