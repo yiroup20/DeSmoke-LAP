@@ -9,7 +9,7 @@ The model is built based on the architecture of <a href="https://github.com/juny
 
 ## Sample Clips
 
-Result comparison on Clips can be assess in the <a href="https://github.com/yiroup20/DeSmoke-LAP/clips">'clips'</a> folder.
+Result comparisons on clips can be assess in the <a href="https://github.com/yiroup20/DeSmoke-LAP/tree/main/video%20clips">'video clips'</a> folder.
 
 <!--  <img src='clips/Comparisons/gif/output_2.gif' width=384> -->
 
