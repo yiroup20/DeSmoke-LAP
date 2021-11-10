@@ -1,6 +1,8 @@
 
 # DeSmoke-LAP: Improved Unpaired Image-to-Image Translation for Desmoking in Laproscopic Surgery
 
+Authors: Yirou Pan (<a href="mailto: yirou.pan.20@ucl.ac.uk">✉</a>), Sophia Bano, Vasconcelos Francisco, Hyun Park, Taikyeong Ted. Jeong and Danail Stoyanov
+
 ## Model Architecture
 
 The model is built based on the architecture of <a href="https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix">CycleGAN</a> network, and two additional loss functions are added for inter-channel discrepancies and dark channel prior.
