@@ -17,6 +17,10 @@ Result comparisons on clips can be assess in the <a href="https://github.com/yir
 
 <!--  (a)Input (b)CycleGAN (c)FastCUT (d)GAN-DC (e)Proposed -->
 
+## Dataset
+
+The dataset is available to download <a href="https://www.ucl.ac.uk/interventional-surgical-sciences/weiss-open-research/weiss-open-data-server/desmoke-lap"> here</a>.
+
 ## Prerequisites
 - Linux or macOS
 - Python 3
